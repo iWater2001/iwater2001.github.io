@@ -1,0 +1,21 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [
+			{
+				"appID": "8A29J48L96.com.tencent.gcloudgame.a",
+				"paths": [
+					"/apps/gcloudgamea/*",
+					"/qq_conn/1109053428/*"
+				]
+			},
+			{
+				"appID": "8A29J48L96.com.tencent.gcloudgame.b",
+				"paths": [
+					"/apps/gcloudgameb/*",
+					"/qq_conn/1109053542/*"
+				]
+			}
+		]
+	}
+}
